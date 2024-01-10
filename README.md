@@ -2,7 +2,7 @@
 
 ### Salutations, fellow inhabitants of the digital realm! 👋
 
-Welcome to my GitHub profile! I'm Bishram Acharya, and I'm thrilled to share my programming and data science journey with you. From Python scripting to building web applications and diving into data analysis, I'm here to learn, create, and contribute to the tech community.
+Welcome to my GitHub profile! I'm Bishram Acharya, and I'm thrilled to share my programming and data science journey with you. From Python scripting to building ml models and diving into data analysis, I'm here to learn, create, and contribute to the tech community.
 
 ## Skills Snapshot
 
