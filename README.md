@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm Bishram Acharya, and I'm thrilled to share my 
 - **Custom Models, Layers, and Loss Functions with TensorFlow** - https://www.coursera.org/account/accomplishments/verify/4XFCFL4BYCHS
 - **Structuring Machine Learning Projects** - https://www.coursera.org/account/accomplishments/records/ESMS2D435NRQ 
 
-### **ZTM Academy(Udemy)** :
+### **ZTM Academy @ Udemy** :
 
 - **Complete A.I. & Machine Learning, Data Science Bootcamp** - https://ude.my/UC-cd7917c1-9d34-43d0-9310-64e09e56ac8e/
 - **Complete Python Developer in 2024: Zero to Mastery** - https://ude.my/UC-d646b4c7-b39a-4249-bcbc-58bf176bea29
