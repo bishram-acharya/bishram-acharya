@@ -8,8 +8,9 @@ Welcome to my GitHub profile! I'm Bishram Acharya, and I'm thrilled to share my 
 
 - **Python:** Crafting elegant solutions and tackling various challenges like automation and scrapping.
 - **Exploratory Data Analysis (EDA):** Extracting insights and storytelling from data.
-- **Django:** Currently exploring high-level Python web framework.
 - **Deep Learning:** Tinkering with the first principles.
+- **Django:** Currently exploring high-level Python web framework.
+
 
 ## Certifications
 
