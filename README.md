@@ -1,100 +1,94 @@
-# 👋 Hi, I'm Bishram Acharya  
+# 👋 Hi, I’m **Bishram Acharya**
 
-**Computer Engineering Graduate | AI Research Assistant**  
-[🌐 bishramacharya.com.np](https://www.bishramacharya.com.np/?utm_source=github)  
+**Research Assistant | Computer Engineering Graduate**  
+🌐 https://www.bishramacharya.com.np
 
----
-
-## 🚀 About Me  
-
-I’m a Computer Engineering graduate from **Pulchowk Campus, IOE (2021–2025)** and currently working as an **AI Research Assistant** at NAAMII.  
-My interests lie in **computer vision, vision-language models, and AI applications for low-resource settings**.  
-
-I love building **ML models, experimenting with deep learning architectures, and deploying real-world AI solutions**.  
-I’m also passionate about **open-source contributions and collaborations**.  
+I am a Computer Engineering graduate and Research Assistant at the *Transforming Global Health with AI (TOGAI) Lab* under NAAMII, where I work on AI for medical imaging and healthcare solutions. My work focuses on **deep learning, computer vision, and AI for low-resource settings**.
 
 ---
 
-## 🎓 Education  
+## 🎓 Education
 
-- **BE in Computer Engineering**, Pulchowk Campus, IOE (2021–2025)  
-  • Aggregate: **79.57%** | Final two years: **80.79%**  
-  • Courses: AI, Data Science, Simulation, DBMS, Computer Graphics, Probability & Statistics  
+### **Bachelor of Engineering in Computer Engineering**  
+Pulchowk Campus, Institute of Engineering — *Graduated 2025*  
+- Final Score: **79.46%**  
+- Relevant coursework: AI, Probability & Statistics, Data Structures, Simulation & Modeling, DBMS, Big Data, Software Engineering, and more.
 
-- **Higher Secondary (Science, Physics Major)**, St. Xavier’s College (2018–2020)  
-  • GPA: **3.79/4.0**  
-
----
-
-## 💼 Experience  
-
-- **AI Research Assistant**, NAAMII (Jun 2025 – Present)  
-  Working on **medical imaging and deep learning** under Dr. Bishesh Khanal.  
-
-- **Research Intern**, TOGAI Lab, NAAMII (Sep 2024 – Mar 2025)  
-  - Developed a **skin lesion classification pipeline** (ISIC Challenge)  
-  - Studied **Active Learning + Vision-Language Segmentation**  
-  - Conducted literature reviews & research discussions  
-
-- **Freelance Developer**, Upwork (2023 – Present)  
-  - Built **Python automation tools** for scraping & news extraction  
-  - Delivered **data analysis, web scraping, and automation solutions**  
+### **Higher Secondary Education (Physics)**  
+St. Xavier’s College, Maitighar (2018–2020)  
+- GPA: **3.79 / 4.0**
 
 ---
 
-## 🔬 Research Projects  
+## 💼 Professional Experience
 
-- **AI-Generated Image Detection (Major Project)**  
-  Compared FourierNet, CLIP, and SpectrCLIP → Achieved **F1 = 0.9877**, **AUC = 0.9993**  
+### **Research Assistant**  
+*TOGAI Lab, NAAMII* — *June 2025 – Present*  
+- Researching medical imaging solutions aimed at improving healthcare accessibility.  
+- Exploring efficient neural architectures (e.g., neural cellular automata) for deployment on edge devices.
 
-- **Cross-Platform Fingerprint Matching using CNNs**  
-  Used **Siamese Network (VGG16 + DenseNet)** → **89.2% accuracy**  
+### **Research Intern**  
+*TOGAI Lab, NAAMII* — *Sept 2024 – May 2025*  
+- Developed a pipeline for the ISIC skin lesion classification challenge.  
+- Worked on Active Learning and Vision-Language Model approaches for medical image tasks.  
+- Conducted literature reviews and assisted in research discussions.
 
-- **Breast Cancer Histopathological Image Classification**  
-  Hybrid **CNN + SVM model** for better diagnostic accuracy  
+### **Teaching Assistant**  
+2025 Annual AI School — *Dec 2024 – Jan 2025*  
+- Assisted sessions on Graph Neural Networks, Large Language Models, and Vision-Language Models.
 
-- **3D Reconstruction with Gaussian Splatting**  
-  Applied Gaussian Splatting for **realistic 3D object reconstruction**  
+### **Instructor**  
+AI-Assisted Disease Screening Bootcamp — *Aug 2025 – Oct 2025*  
+- Led training for building AI-assisted clinical screening tools.
 
----
-
-## 🛠️ Development Projects  
-
-- **Automated News Extraction System** → Scraped real-time news from **SkyNews AU**  
-- **Real Estate Data Scraper** → Extracted, validated, and exported housing/property data  
-- **Portfolio Website** → [bishramacharya.com.np](https://www.bishramacharya.com.np/?utm_source=github)  
-
----
-
-## 🧑‍💻 Skills  
-
-- **Languages**: Python, C++, C, JavaScript  
-- **ML/DL Frameworks**: PyTorch, TensorFlow, Scikit-learn, OpenCV  
-- **Data Science**: Pandas, NumPy, Matplotlib, Data Analysis & EDA  
-- **Databases**: MySQL, NoSQL  
-- **Other**: Django, Git, Docker, Kubernetes (learning)  
+### **Freelancer**  
+Upwork — *Nov 2023 – Aug 2024*  
+- Built automated Python tools for scraping and news extraction.
 
 ---
 
-## 📜 Certifications  
+## 🔬 Research & Projects
 
-- **Deep Learning Specialization** – Coursera (Andrew Ng, deeplearning.ai)  
-- **Generative AI with Large Language Models** – Coursera  
-- **Samsung Innovation Campus: AI**  
-- **Complete A.I. & ML Bootcamp** – ZTM Academy  
-- **Complete Python Developer** – ZTM Academy  
+### **AI-Generated Image Detection (Final Year Project)**  
+Developed a frequency-aware deepfake detection model (FreqNet) and compared it with CLIP — achieving ~**99% accuracy**.
 
----
+### **Cross-Platform Fingerprint Matching**  
+Designed a Siamese Network using VGG-16 and DenseNet backbones — **89% accuracy**.
 
+### **Breast Cancer Disease Classification**  
+Created a hybrid model combining Vision Transformer (ViT), LBP, and CNN backbones — **98% accuracy**.
 
+### **DevOps-Centric Image Classifier**  
+A full-stack Docker/Kubernetes-based app with a ResNet classifier, FastAPI backend, and Node.js frontend.
 
-## 🤝 Let’s Connect  
-
-📧 **Email**: [bisram019@gmail.com](mailto:bisram019@gmail.com)  
-🌐 **Portfolio**: [bishramacharya.com.np](https://www.bishramacharya.com.np/?utm_source=github)  
-💼 **LinkedIn**: [linkedin.com/in/bishram-acharya](https://www.linkedin.com/in/bishram-acharya/)  
-
+### **3D Reconstruction with Gaussian Splatting**  
+Applied Gaussian Splatting for high-quality 3D object reconstruction and visualization.
 
 ---
 
-⭐️ *Feel free to explore my repositories and connect with me. Let’s learn, build, and innovate together!*  
+## 🛠 Development Projects
+
+- **Automated News Extraction System** — Scrapes and displays real-time news from SkyNews AU.  
+- **Real Estate Data Scraper** — Extracts, validates, and exports property data for analytics.  
+- **Portfolio Website** — A modern, responsive personal website.
+
+---
+
+## 🧠 Skills
+
+**Core Expertise:** Machine Learning, Deep Learning, Computer Vision, NLP  
+**Languages & Tools:** Python, C++, MySQL, Unix/Linux, Git  
+**Libraries/Frameworks:** PyTorch, TensorFlow, OpenCV, Scikit-learn, NumPy, Pandas  
+**Soft Skills:** Technical writing, research communication, analytical thinking
+
+---
+
+## 📬 Connect
+
+✉️ **Email**: bisram019@gmail.com  
+🌐 **Portfolio**: https://www.bishramacharya.com.np  
+🔗 **LinkedIn**: https://www.linkedin.com/in/bishram-acharya/
+
+---
+
+⭐ *Feel free to explore my work and reach out for research collaborations or opportunities!*
