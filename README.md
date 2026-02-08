@@ -24,8 +24,9 @@ St. Xavier’s College, Maitighar (2018–2020)
 
 ### **Research Assistant**  
 *TOGAI Lab, NAAMII* — *June 2025 – Present*  
-- Researching medical imaging solutions aimed at improving healthcare accessibility.  
-- Exploring efficient neural architectures (e.g., neural cellular automata) for deployment on edge devices.
+- Conducting research at the intersection of **medical imaging and AI**, aimed at improving healthcare in low-resource settings.  
+- Building AI-based tools that can have **real-world health impact** when deployed in **LMICs like Nepal**.
+
 
 ### **Research Intern**  
 *TOGAI Lab, NAAMII* — *Sept 2024 – May 2025*  
