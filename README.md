@@ -11,7 +11,6 @@ I am a Computer Engineering graduate and Research Assistant at the *Transforming
 
 ### **Bachelor of Engineering in Computer Engineering**  
 Pulchowk Campus, Institute of Engineering — *Graduated 2025*  
-- Final Score: **79.46%**  
 - Relevant coursework: AI, Probability & Statistics, Data Structures, Simulation & Modeling, DBMS, Big Data, Software Engineering, and more.
 
 ### **Higher Secondary Education (Physics)**  
